@@ -1,6 +1,6 @@
 <h1 align=“center”>你好啊 我是幻梦晓寒kaka</h1>
-<h3 align=“center”>一个热爱编程的普普通通学生党</h3><p align=“left”> 
-正在学习python，也是一个对网安抱有很大兴趣的人 ヾ(≧▽≦*)o
+<h3 align=“center”>一个普普通通学生党</h3><p align=“left”> 
+
 
   
   
