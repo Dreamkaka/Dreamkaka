@@ -69,11 +69,3 @@
 
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
-<div style="display: flex; align-items: center">
-  <h1> 
-    fediverse
-  </h1>
-</div>
-
-<iframe src="https://ms.xiaohan-kaka.me/embed/user-timeline/a0tgxh3gk3?maxHeight=800" data-misskey-embed-id="v1_32a88c79-d2d9-4d8b-8381-d73ad45f3139" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" style="border: none; width: 100%; max-width: 500px; height: 300px; color-scheme: light dark;"></iframe>
-<script defer src="https://ms.xiaohan-kaka.me/embed.js"></script>
